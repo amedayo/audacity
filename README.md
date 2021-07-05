@@ -30,3 +30,8 @@ Help with using Audacity is available from the original [Audacity Forum](https:/
 Build instructions are available [here](BUILDING.md).
 
 More information for developers is available from the original [Audacity Wiki](https://wiki.audacityteam.org/wiki/For_Developers).
+
+
+=========================
+
+fuck audacity and added telemetry 🌧️
